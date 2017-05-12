@@ -27,6 +27,6 @@
         <element name="Item" positionX="-63" positionY="-18" width="128" height="148"/>
         <element name="Image" positionX="178" positionY="191" width="128" height="88"/>
         <element name="Store" positionX="-380" positionY="209" width="128" height="88"/>
-        <element name="ItemType" positionX="-342" positionY="-18" width="128" height="75"/>
+        <element name="ItemType" positionX="-342" positionY="-18" width="128" height="73"/>
     </elements>
 </model>
